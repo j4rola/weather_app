@@ -1,0 +1,17 @@
+* {
+    font-weight: bold;
+    display: flex; 
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    font-family: 'Khula', sans-serif;
+}
+
+#img {
+    border-radius: 15px;
+}
+
+#searchbar {
+    display: flex;
+    flex-direction: row;
+}
